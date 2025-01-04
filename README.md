@@ -1,5 +1,14 @@
-## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=header&text=kkyuheak's%20GitHub&fontSize=50" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=180&section=header&text=kkyuheak's%20GitHub&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlign=70&fontAlignY=38" width="100%"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkyuheak&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kevin7527)](https://github.com/eungyeole/velog-readme-stats)
+
+## My Skils
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=Styled-Components&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+## Tools
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
 <!--
 **kkyuheak/kkyuheak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
