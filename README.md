@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=180&section=header&text=kkyuheak's%20GitHub&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlign=70&fontAlignY=38" width="100%"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kkyuheak&show_icons=true&theme=tokyonight" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kkyuheak&show_icons=true&theme=tokyonight"/>
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=kevin7527">
  <img  src="https://velog-readme-stats.vercel.app/api?name=kevin7527"/>
 </a>
