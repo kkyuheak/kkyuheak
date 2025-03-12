@@ -3,9 +3,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=kkyuheak&show_icons=true&theme=tokyonight" width="50%"/>
-<a href="https://velog-readme-stats.vercel.app/api/redirect?name=kevin7527">
- <img  src="https://velog-readme-stats.vercel.app/api?name=kevin7527"/>
-</a>
+
 
 
 ## My Skils
